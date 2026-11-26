@@ -4,6 +4,12 @@
 	(generator_version "10.0")
 	(uuid "21af0b97-8a03-45fd-a20f-69c0fcb4e4f5")
 	(paper "A4")
+	(title_block
+		(title "STM32G071 DevKit")
+		(date "2026-11-18")
+		(rev "2")
+		(company "Grayson Kippes")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x16_Pin"
 			(pin_names

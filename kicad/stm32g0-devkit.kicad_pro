@@ -78,14 +78,6 @@
       ],
       "drc_exclusions": [
         [
-          "starved_thermal|100000000|36730000|97c0fa14-c75a-4ece-84f3-29358f5a917c|fd9ed15c-598a-41e4-822d-f4ccf15f3e0b|In1.Cu",
-          ""
-        ],
-        [
-          "starved_thermal|98730000|36730000|97c0fa14-c75a-4ece-84f3-29358f5a917c|d67a0117-fe3c-4eb6-a73a-a68a191e740c|In1.Cu",
-          ""
-        ],
-        [
           "unconnected_items|93800000|55450000|F.Cu|4|8ef1de54-58d7-4f29-85ef-d5b940f76c3d|bba64e04-42c4-4387-8f3e-ab2c7aeb8d0a",
           ""
         ]
@@ -277,7 +269,7 @@
       "internal_id": "",
       "mfg": "",
       "mpn": "",
-      "sch_revision": ""
+      "sch_revision": "2"
     },
     "layer_pairs": [],
     "layer_presets": [],
